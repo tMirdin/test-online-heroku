@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "title": "Samsung176678",
+      "type": "Phone",
+      "description": "hj",
+      "price": "hjh",
+      "img1": "jh",
+      "img2": "jh",
+      "img3": "jhjhj",
+      "id": 1
+    },
+    {
+      "title": "Asus",
+      "type": "Laptop",
+      "description": "67",
+      "price": "6786",
+      "img1": "786786",
+      "img2": "876786786",
+      "img3": "7867867",
+      "id": 2
+    },
+    {
+      "title": "Mac",
+      "type": "Laptop",
+      "description": "76",
+      "price": "767",
+      "img1": "67",
+      "img2": "67",
+      "img3": "676",
+      "id": 3
+    },
+    {
+      "title": "Apple",
+      "type": "Phone",
+      "description": "67",
+      "price": "66",
+      "img1": "767",
+      "img2": "676",
+      "img3": "7",
+      "id": 4
+    }
+  ]
+}
