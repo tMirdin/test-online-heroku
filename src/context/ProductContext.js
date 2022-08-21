@@ -4,7 +4,8 @@ import { useLocation } from "react-router-dom";
 
 export const productContext = createContext();
 
-const API = "http://localhost:8000/products";
+// const API = "http://localhost:8000/products";
+const API = "https://online-shop-14.herokuapp.com/products";
 const API1 = "https://backend-for-fs-makers.herokuapp.com/api/v1/products/";
 
 const INIT_STATE = {
